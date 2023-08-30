@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Azure Cloud Security - Use Cases](README.md)
+* [Learning Azure Cloud Infrastructure - Use Cases](README.md)
