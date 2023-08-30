@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Learning Azure Cloud Security - Use-Cases"
+  title: "Learning Azure Cloud Infrastructure - Use-Cases"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - azure-active-directory.qmd
+      - azure-governance.qmd
 
 format:
   html:
