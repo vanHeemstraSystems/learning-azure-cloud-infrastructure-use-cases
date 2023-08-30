@@ -1,41 +1,37 @@
 ---
-title: "Learning Azure Cloud Security - Use-Cases"
+title: "Learning Azure Cloud Infrastructure - Use-Cases"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Azure Cloud Security
+# Master Azure Cloud Infrastructure
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Azure Active Directory)
-  A[Learner] --> C(UC: Master Azure Application Security)
-  A[Learner] --> D(UC: Master Azure Containers Security)
-  A[Learner] --> E(UC: Master Azure Database Security)
-  A[Learner] --> F(UC: Master Azure Defender)
-  A[Learner] --> G(UC: Master Azure Enterprise Governance)
-  A[Learner] --> H(UC: Master Azure Host Security)
-  A[Learner] --> I(UC: Master Azure Key Vault)
-  A[Learner] --> J(UC: Master Azure Monitor)
-  A[Learner] --> K(UC: Master Azure Network Security)
-  A[Learner] --> L(UC: Master Azure Perimeter Security)
-  A[Learner] --> M(UC: Master Azure Sentinel)
-  A[Learner] --> N(UC: Master Azure Storage Security)
-  B --> O{Abstract UC: Master Azure Cloud Security}
-  C --> O{Abstract UC: Master Azure Cloud Security}
-  D --> O{Abstract UC: Master Azure Cloud Security}
-  E --> O{Abstract UC: Master Azure Cloud Security}
-  F --> O{Abstract UC: Master Azure Cloud Security}
-  G --> O{Abstract UC: Master Azure Cloud Security}
-  H --> O{Abstract UC: Master Azure Cloud Security}
-  I --> O{Abstract UC: Master Azure Cloud Security}
-  J --> O{Abstract UC: Master Azure Cloud Security}
-  K --> O{Abstract UC: Master Azure Cloud Security}
-  L --> O{Abstract UC: Master Azure Cloud Security}
-  M --> O{Abstract UC: Master Azure Cloud Security}
-  N --> O{Abstract UC: Master Azure Cloud Security}
+  A[Learner] --> B(UC: Master Azure Governance)
+  A[Learner] --> C(UC: Master Azure Compute)
+  A[Learner] --> D(UC: Master Azure Storage Non Relational)
+  A[Learner] --> E(UC: Master Azure Database Relational)
+  A[Learner] --> F(UC: Master Azure Data Integration)
+  A[Learner] --> G(UC: Master Azure App Architecture)
+  A[Learner] --> H(UC: Master Azure Authentication and Authorization)
+  A[Learner] --> I(UC: Master Azure Monitoring)
+  A[Learner] --> J(UC: Master Azure Networks)
+  A[Learner] --> K(UC: Master Azure Business Continuity and Disaster Recovery)
+  A[Learner] --> L(UC: Master Azure Migrations)
+  B --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  C --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  D --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  E --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  F --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  G --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  H --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  I --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  J --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  K --> O{Abstract UC: Master Azure Cloud Infrastructure}
+  L --> O{Abstract UC: Master Azure Cloud Infrastructure}
 ```
 
-Based on "AZ-500T00: Microsoft Azure Security Technologies" at https://learn.microsoft.com/en-us/training/courses/az-500t00
+Based on "AZ-305: Designing Microsoft Infrastructure Solutions" at https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions
