@@ -35,16 +35,9 @@
     "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Use Cases"
   },
   {
-    "objectID": "azure-compute.html",
-    "href": "azure-compute.html",
-    "title": "Azure Compute",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "azure-networks.html",
-    "href": "azure-networks.html",
-    "title": "Azure Networks",
+    "objectID": "azure-governance.html",
+    "href": "azure-governance.html",
+    "title": "Azure Governance",
     "section": "",
     "text": "About this site"
   },
@@ -56,9 +49,23 @@
     "text": "About this site"
   },
   {
-    "objectID": "azure-governance.html",
-    "href": "azure-governance.html",
-    "title": "Azure Governance",
+    "objectID": "azure-networks.html",
+    "href": "azure-networks.html",
+    "title": "Azure Networks",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "azure-compute.html",
+    "href": "azure-compute.html",
+    "title": "Azure Compute",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "azure-migrations.html",
+    "href": "azure-migrations.html",
+    "title": "Azure Migrations",
     "section": "",
     "text": "About this site"
   },
