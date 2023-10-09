@@ -7,6 +7,13 @@
     "text": "About this site"
   },
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Use Cases"
+  },
+  {
     "objectID": "azure-governance.html",
     "href": "azure-governance.html",
     "title": "Azure Governance",
@@ -19,12 +26,5 @@
     "title": "Learning Azure Cloud Infrastructure - Use-Cases",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Azure Cloud Infrastructure\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Azure Governance)\n  A[Learner] --&gt; C(UC: Master Azure Compute)\n  A[Learner] --&gt; D(UC: Master Azure Storage Non Relational)\n  A[Learner] --&gt; E(UC: Master Azure Storage Relational)\n  A[Learner] --&gt; F(UC: Master Azure Data Integration)\n  A[Learner] --&gt; G(UC: Master Azure App Architecture)\n  A[Learner] --&gt; H(UC: Master Azure Authentication and Authorization)\n  A[Learner] --&gt; I(UC: Master Azure Monitoring)\n  A[Learner] --&gt; J(UC: Master Azure Networks)\n  A[Learner] --&gt; K(UC: Master Azure Business Continuity and Disaster Recovery)\n  A[Learner] --&gt; L(UC: Master Azure Migrations)\n  B --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  C --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  D --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  E --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  F --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  G --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  H --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  I --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  J --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  K --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n  L --&gt; O{Abstract UC: Master Azure Cloud Infrastructure}\n\n\n\n\n\nBased on “AZ-305: Designing Microsoft Infrastructure Solutions” at https://learn.microsoft.com/en-us/training/paths/design-infranstructure-solutions"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Use Cases"
   }
 ]
