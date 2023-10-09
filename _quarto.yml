@@ -10,6 +10,16 @@ website:
         text: Home
       - about.qmd
       - azure-governance.qmd
+      - azure-compute.qmd
+      - azure-storage-non-relational.qmd
+      - azure-storage-relational.qmd
+      - azure-data-intgration.qmd
+      - azure-application-architecture.qmd
+      - azure-authentication-and-authorization.qmd
+      - azure-monitoring.qmd
+      - azure-networks.qmd
+      - azure-business-continuity-and-disaster-recovery.qmd
+      - azure-migrations.qmd
 
 format:
   html:
