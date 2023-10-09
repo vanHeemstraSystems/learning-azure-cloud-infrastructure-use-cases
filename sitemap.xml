@@ -2,46 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-authentication-and-authorization.html</loc>
-    <lastmod>2023-10-09T08:31:40.702Z</lastmod>
+    <lastmod>2023-10-09T08:31:52.468Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-storage-non-relational.html</loc>
-    <lastmod>2023-10-09T08:31:40.142Z</lastmod>
+    <lastmod>2023-10-09T08:31:51.860Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/index.html</loc>
-    <lastmod>2023-10-09T08:31:39.598Z</lastmod>
+    <lastmod>2023-10-09T08:31:51.280Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-application-architecture.html</loc>
-    <lastmod>2023-10-09T08:31:38.978Z</lastmod>
+    <lastmod>2023-10-09T08:31:50.684Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-governance.html</loc>
-    <lastmod>2023-10-09T08:31:37.890Z</lastmod>
+    <lastmod>2023-10-09T08:31:50.096Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-monitoring.html</loc>
-    <lastmod>2023-10-09T08:31:36.826Z</lastmod>
+    <lastmod>2023-10-09T08:31:49.504Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-networks.html</loc>
+    <lastmod>2023-10-09T08:31:47.656Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-compute.html</loc>
-    <lastmod>2023-10-09T08:31:37.446Z</lastmod>
+    <lastmod>2023-10-09T08:31:49.804Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/SUMMARY.html</loc>
-    <lastmod>2023-10-09T08:31:38.282Z</lastmod>
+    <lastmod>2023-10-09T08:31:50.392Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-data-integration.html</loc>
-    <lastmod>2023-10-09T08:31:39.302Z</lastmod>
+    <lastmod>2023-10-09T08:31:50.968Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/about.html</loc>
-    <lastmod>2023-10-09T08:31:39.866Z</lastmod>
+    <lastmod>2023-10-09T08:31:51.568Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-storage-relational.html</loc>
-    <lastmod>2023-10-09T08:31:40.426Z</lastmod>
+    <lastmod>2023-10-09T08:31:52.144Z</lastmod>
   </url>
 </urlset>
