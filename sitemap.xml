@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/about.html</loc>
-    <lastmod>2023-10-09T08:28:10.664Z</lastmod>
+    <lastmod>2023-10-09T08:28:38.863Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/SUMMARY.html</loc>
-    <lastmod>2023-10-09T08:28:10.076Z</lastmod>
+    <lastmod>2023-10-09T08:28:38.103Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-compute.html</loc>
+    <lastmod>2023-10-09T08:28:35.855Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/azure-governance.html</loc>
-    <lastmod>2023-10-09T08:28:09.436Z</lastmod>
+    <lastmod>2023-10-09T08:28:37.739Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/vanHeemstraSystems/learning-azure-cloud-infrastructure-use-cases/index.html</loc>
-    <lastmod>2023-10-09T08:28:10.380Z</lastmod>
+    <lastmod>2023-10-09T08:28:38.491Z</lastmod>
   </url>
 </urlset>
