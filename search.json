@@ -21,11 +21,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "azure-governance.html",
-    "href": "azure-governance.html",
-    "title": "Azure Governance",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "About this site"
+    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Use Cases"
   },
   {
     "objectID": "azure-compute.html",
@@ -35,11 +35,18 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
+    "objectID": "azure-governance.html",
+    "href": "azure-governance.html",
+    "title": "Azure Governance",
     "section": "",
-    "text": "Table of contents\n\nLearning Azure Cloud Infrastructure - Use Cases"
+    "text": "About this site"
+  },
+  {
+    "objectID": "azure-application-architecture.html",
+    "href": "azure-application-architecture.html",
+    "title": "Azure Application Architecture",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
