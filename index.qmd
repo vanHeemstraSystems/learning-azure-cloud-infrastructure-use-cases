@@ -12,10 +12,10 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 flowchart LR
   A[Learner] --> B(UC: Master Azure Governance)
   A[Learner] --> C(UC: Master Azure Compute)
-  A[Learner] --> D(UC: Master Azure Storage Non Relational)
+  A[Learner] --> D(UC: Master Azure Storage Non-Relational)
   A[Learner] --> E(UC: Master Azure Storage Relational)
   A[Learner] --> F(UC: Master Azure Data Integration)
-  A[Learner] --> G(UC: Master Azure App Architecture)
+  A[Learner] --> G(UC: Master Azure Application Architecture)
   A[Learner] --> H(UC: Master Azure Authentication and Authorization)
   A[Learner] --> I(UC: Master Azure Monitoring)
   A[Learner] --> J(UC: Master Azure Networks)
